@@ -33,7 +33,13 @@ I am a dedicated Software Engineer with hands-on experience in Unity game develo
 
 | GitHub Activity Summary | Top Language Distribution |
 |------------------------|--------------------------|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itx-ahmermalik&show_icons=true&count_private=true&theme=default) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itx-ahmermalik&layout=compact&theme=default) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmer1289&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmer1289&layout=compact&langs_count=8) |
+
+<br>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ahmer1289&hide_border=true" />
+</p>
 
 ---
 
