@@ -28,7 +28,35 @@ I am a dedicated Software Engineer with hands-on experience in Unity game develo
 | Testing & Optimization   | Debugging, Performance Optimization |
 
 ---
+## Featured Projects  
 
+### 1. ML Lab Web Application  
+A comprehensive web application integrating multiple machine learning models for tasks such as image classification, sentiment analysis, text generation, and translation. Designed to provide scalable and modular AI services through a unified interface.  
+**Tech Stack:** Python, Flask, TensorFlow, Keras  
+**Repository:** https://github.com/ahmer1289/ML-LAB  
+
+---
+
+### 2. Ocean Blue Laundry Management System  
+A full-stack web platform developed to automate laundry service operations, including order management, tracking, and customer interaction. The system improves operational efficiency and user experience through a modern web interface.  
+**Tech Stack:** Next.js, MongoDB  
+**Live Demo:** https://oceanblue-three.vercel.app  
+
+---
+
+### 3. WordQuake (Real-Time Word Game)  
+A real-time multiplayer word guessing game supporting both web and application platforms. Built using WebSockets to enable low-latency communication and interactive gameplay across clients.  
+**Tech Stack:** Unity, C#, JavaScript, HTML, WebSockets  
+**Repository:** https://github.com/ahmer1289/WordQuake 
+
+---
+
+### 4. No Ants (Unity Game)  
+An interactive Unity-based game focused on fast-paced gameplay mechanics and user engagement. Designed with optimized controls and responsive interactions for an engaging player experience.  
+**Tech Stack:** Unity, C#  
+**Repository:** https://github.com/ahmer1289/NoAnts-UnityGame 
+
+---
 
 ## Connect  
 
