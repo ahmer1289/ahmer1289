@@ -14,18 +14,18 @@ I am a dedicated Software Engineer with hands-on experience in Unity game develo
 
 <p align="left">
   <img src="https://cdn.simpleicons.org/c++" width="35" height="35" alt="c++" />&nbsp;
+  <img src="https://cdn.simpleicons.org/python" width="35" height="35" alt="python" />&nbsp;
   <img src="https://cdn.simpleicons.org/unity" width="35" height="35" alt="unity" />&nbsp;
   <img src="https://cdn.simpleicons.org/react" width="35" height="35" alt="react" />&nbsp;
   <img src="https://cdn.simpleicons.org/tailwindcss" width="35" height="35" alt="tailwindcss" />&nbsp;
   <img src="https://cdn.simpleicons.org/javascript" width="35" height="35" alt="javascript" />&nbsp;
-  <img src="https://cdn.simpleicons.org/nextdotjs" width="35" height="35" alt="nextdotjs" />&nbsp;
+ <img src="https://cdn.simpleicons.org/nextdotjs/white" width="35" height="35" alt="nextdotjs" />&nbsp;
   <img src="https://cdn.simpleicons.org/nodedotjs" width="35" height="35" alt="nodedotjs" />&nbsp;
   <img src="https://cdn.simpleicons.org/mongodb" width="35" height="35" alt="mongodb" />&nbsp;
   <img src="https://cdn.simpleicons.org/firebase" width="35" height="35" alt="firebase" />&nbsp;
   <img src="https://cdn.simpleicons.org/mysql" width="35" height="35" alt="mongodb" />&nbsp;
-  <img src="https://cdn.simpleicons.org/python" width="35" height="35" alt="python" />&nbsp;
-  <img src="https://cdn.simpleicons.org/tensorflow" width="35" height="35" alt="tensorflow" />&nbsp;
   <img src="https://cdn.simpleicons.org/git" width="35" height="35" alt="git" />&nbsp;
+  <img src="https://cdn.simpleicons.org/flask" width="35" height="35" alt="flask" />&nbsp;
 </p>
 
 ---
@@ -35,7 +35,7 @@ I am a dedicated Software Engineer with hands-on experience in Unity game develo
 | Area of Competence        | Key Technologies and Platforms |
 |---------------------------|--------------------------------|
 | Game Development          | Unity (2D/3D), C#, Photon Fusion |
-| Frontend Development      | React / React Native, Next.js, TypeScript |
+| Frontend Development      | React / React Native, Next.js, TypeScript, Tailwindcss |
 | Backend & APIs            | Node.js (Express), Flask |
 | AI & Machine Learning     | Python, TensorFlow, Keras, NLP, Transformers |
 | Databases & Storage       | MongoDB, Firebase, MySql |
