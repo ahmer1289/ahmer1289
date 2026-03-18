@@ -12,6 +12,19 @@ I am a dedicated Software Engineer with hands-on experience in Unity game develo
 
 **Collaboration:** Open to contributing to innovative software projects, game development initiatives, and intelligent system solutions.
 
+<p align="left">
+<img src="https://cdn.simpleicons.org/unity/white" width="35" height="35" alt="unity" />&nbsp;
+<img src="https://cdn.simpleicons.org/csharp/white" width="35" height="35" alt="csharp" />&nbsp;
+<img src="https://cdn.simpleicons.org/react/white" width="35" height="35" alt="react" />&nbsp;
+<img src="https://cdn.simpleicons.org/nextdotjs/white" width="35" height="35" alt="nextdotjs" />&nbsp;
+<img src="https://cdn.simpleicons.org/nodedotjs/white" width="35" height="35" alt="nodedotjs" />&nbsp;
+<img src="https://cdn.simpleicons.org/mongodb/white" width="35" height="35" alt="mongodb" />&nbsp;
+<img src="https://cdn.simpleicons.org/firebase/white" width="35" height="35" alt="firebase" />&nbsp;
+<img src="https://cdn.simpleicons.org/python/white" width="35" height="35" alt="python" />&nbsp;
+<img src="https://cdn.simpleicons.org/tensorflow/white" width="35" height="35" alt="tensorflow" />&nbsp;
+<img src="https://cdn.simpleicons.org/git/white" width="35" height="35" alt="git" />&nbsp;
+</p>
+
 ---
 
 ## Technical Expertise  
