@@ -19,7 +19,7 @@ I am a dedicated Software Engineer with hands-on experience in Unity game develo
 | Area of Competence        | Key Technologies and Platforms |
 |--------------------------|--------------------------------|
 | Game Development         | Unity (2D/3D), C#              |
-| Frontend Development     | React, Next.js, TypeScript     |
+| Frontend Development     | React, ReactNative, Next.js, TypeScript |
 | Backend & APIs           | Node.js (Express), Flask       |
 | AI & Machine Learning    | Python, TensorFlow, Keras. NLP, Transformers |
 | Databases & Storage      | MongoDB, Firebase              |
@@ -31,9 +31,9 @@ I am a dedicated Software Engineer with hands-on experience in Unity game develo
 
 ## Professional Metrics  
 
-| GitHub Activity Summary | Top Language Distribution |
-|------------------------|--------------------------|
-| ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ahmer1289&show_icons=true&count_private=true&include_all_commits=true) | ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ahmer1289&layout=compact) |
+| GitHub Activity Summary |
+|------------------------|
+| ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ahmer1289&show_icons=true&count_private=true&include_all_commits=true) | 
 
 <br>
 
