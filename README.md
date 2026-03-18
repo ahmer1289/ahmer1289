@@ -69,4 +69,4 @@ An interactive Unity-based game focused on fast-paced gameplay mechanics and use
 
 ---
 
-## Focused on building scalable systems, intelligent applications, and interactive digital experiences that meet modern performance and usability standards.
+Focused on building scalable systems, intelligent applications, and interactive digital experiences that meet modern performance and usability standards.
