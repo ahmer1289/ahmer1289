@@ -61,7 +61,7 @@ An interactive Unity-based game focused on fast-paced gameplay mechanics and use
 ## Socials
 
 <a href="https://github.com/ahmer1289"><img src="https://cdn.simpleicons.org/github/white" width="32" alt="GitHub" /></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/ahmer-asghar-393570373"><img src="https://cdn.simpleicons.org/linkedin/white" width="35" height="35" alt="LinkedIn" /></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/ahmer-asghar-393570373"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" width="38" height="38" style="filter: invert(1);" alt="LinkedIn" /></a>&nbsp;&nbsp;
 <a href="https://portfolio-ahmer.vercel.app"><img src="https://cdn.simpleicons.org/vercel/white" width="32" alt="Portfolio" /></a>&nbsp;&nbsp;
 <a href="https://instagram.com/itx_ahmermalik"><img src="https://cdn.simpleicons.org/instagram/white" width="32" alt="Instagram" /></a>&nbsp;&nbsp;
 <a href="mailto:ahmerasghar1289@gmail.com"><img src="https://cdn.simpleicons.org/gmail/white" width="32" alt="Email" /></a>
