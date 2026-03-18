@@ -21,9 +21,11 @@ I am a dedicated Software Engineer with hands-on experience in Unity game develo
 | Game Development         | Unity (2D/3D), C#              |
 | Frontend Development     | React, Next.js, TypeScript     |
 | Backend & APIs           | Node.js (Express), Flask       |
+| AI & Machine Learning    | Python, TensorFlow, Keras. NLP, Transformers |
 | Databases & Storage      | MongoDB, Firebase              |
-| Tools & Version Control  | Git, GitHub                    |
-| Testing & Debugging      | Debugging, Performance Optimization |
+| Tools & Version Control  | Git, GitHub, Unity Version Control |
+| Testing & Quality        | Unit Testing, Integration Testing |
+| Testing & Optimization   | Debugging, Performance Optimization |
 
 ---
 
@@ -31,7 +33,7 @@ I am a dedicated Software Engineer with hands-on experience in Unity game develo
 
 | GitHub Activity Summary | Top Language Distribution |
 |------------------------|--------------------------|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itx-ahmermalik&show_icons=true&count_private=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itx-ahmermalik&layout=compact) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itx-ahmermalik&show_icons=true&count_private=true&theme=default) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itx-ahmermalik&layout=compact&theme=default) |
 
 ---
 
