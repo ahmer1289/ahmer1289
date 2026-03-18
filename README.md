@@ -18,7 +18,7 @@ I am a dedicated Software Engineer with hands-on experience in Unity game develo
 
 | Area of Competence        | Key Technologies and Platforms |
 |--------------------------|--------------------------------|
-| Game Development         | Unity (2D/3D), C#              |
+| Game Development         | Unity (2D/3D), C#, Photon Fusion        |
 | Frontend Development     | React, ReactNative, Next.js, TypeScript |
 | Backend & APIs           | Node.js (Express), Flask       |
 | AI & Machine Learning    | Python, TensorFlow, Keras. NLP, Transformers |
