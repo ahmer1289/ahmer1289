@@ -1,16 +1,51 @@
-## Hi there 👋
+# Ahmer Asghar  
+Software Engineer | Unity Developer | Full Stack Developer | AI/ML Enthusiast  
 
-<!--
-**ahmer1289/ahmer1289** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## Overview  
+I am a dedicated Software Engineer with hands-on experience in Unity game development and full-stack web applications. My work focuses on building high-performance interactive systems, scalable web solutions, and efficient backend architectures. I aim to deliver reliable, optimized, and production-ready applications across multiple domains.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Current Focus:** Advancing expertise in Machine Learning and Artificial Intelligence concepts, alongside developing scalable web and interactive systems.  
+
+**Technical Interests:** System Design, Game Development, Cloud Integration, AI/ML, and Performance Optimization.  
+
+**Collaboration:** Open to contributing to innovative software projects, game development initiatives, and intelligent system solutions.
+
+---
+
+## Technical Expertise  
+
+| Area of Competence        | Key Technologies and Platforms |
+|--------------------------|--------------------------------|
+| Game Development         | Unity (2D/3D), C#              |
+| Frontend Development     | React, Next.js, TypeScript     |
+| Backend & APIs           | Node.js (Express), Flask       |
+| Databases & Storage      | MongoDB, Firebase              |
+| Tools & Version Control  | Git, GitHub                    |
+| Testing & Debugging      | Debugging, Performance Optimization |
+
+---
+
+## Professional Metrics  
+
+| GitHub Activity Summary | Top Language Distribution |
+|------------------------|--------------------------|
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itx-ahmermalik&show_icons=true&count_private=true) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itx-ahmermalik&layout=compact) |
+
+---
+
+## Connect  
+
+| Platform   | Link |
+|------------|------|
+| LinkedIn   | https://www.linkedin.com/in/ahmer-asghar-393570373 |
+| Portfolio  | https://portfolio-ahmer.vercel.app |
+| Instagram  | https://instagram.com/itx_ahmermalik |
+| Email      | ahmerasghar1289@gmail.com |
+
+---
+
+## Statement  
+
+Focused on building scalable systems, intelligent applications, and interactive digital experiences that meet modern performance and usability standards.
