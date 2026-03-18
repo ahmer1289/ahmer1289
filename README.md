@@ -29,13 +29,6 @@ I am a dedicated Software Engineer with hands-on experience in Unity game develo
 
 ---
 
-## Professional Metrics  
-
-| GitHub Activity Summary |
-|------------------------|
-| ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ahmer1289&show_icons=true&count_private=true&include_all_commits=true) | 
-
----
 
 ## Connect  
 
