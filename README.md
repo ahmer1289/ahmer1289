@@ -15,7 +15,6 @@ I am a dedicated Software Engineer with hands-on experience in Unity game develo
 <p align="left">
   <img src="https://cdn.simpleicons.org/c++" width="35" height="35" alt="c++" />&nbsp;
   <img src="https://cdn.simpleicons.org/unity" width="35" height="35" alt="unity" />&nbsp;
-  <img src="https://cdn.simpleicons.org/csharp" width="35" height="35" alt="csharp" />&nbsp;
   <img src="https://cdn.simpleicons.org/react" width="35" height="35" alt="react" />&nbsp;
   <img src="https://cdn.simpleicons.org/tailwindcss" width="35" height="35" alt="tailwindcss" />&nbsp;
   <img src="https://cdn.simpleicons.org/javascript" width="35" height="35" alt="javascript" />&nbsp;
@@ -23,26 +22,26 @@ I am a dedicated Software Engineer with hands-on experience in Unity game develo
   <img src="https://cdn.simpleicons.org/nodedotjs" width="35" height="35" alt="nodedotjs" />&nbsp;
   <img src="https://cdn.simpleicons.org/mongodb" width="35" height="35" alt="mongodb" />&nbsp;
   <img src="https://cdn.simpleicons.org/firebase" width="35" height="35" alt="firebase" />&nbsp;
+  <img src="https://cdn.simpleicons.org/mysql" width="35" height="35" alt="mongodb" />&nbsp;
   <img src="https://cdn.simpleicons.org/python" width="35" height="35" alt="python" />&nbsp;
   <img src="https://cdn.simpleicons.org/tensorflow" width="35" height="35" alt="tensorflow" />&nbsp;
   <img src="https://cdn.simpleicons.org/git" width="35" height="35" alt="git" />&nbsp;
-  <img src="https://cdn.simpleicons.org/visualstudiocode" width="35" height="35" alt="vscode" />&nbsp;
 </p>
 
 ---
 
 ## Technical Expertise  
 
-| Area of Competence | Key Technologies and Platforms |
-|--------------------|--------------------------------|
-| Game Development | <img align="center" src="https://cdn.simpleicons.org/unity/white" width="18"/> Unity (2D/3D), <img align="center" src="https://cdn.simpleicons.org/csharp/239120" width="18"/> C#, Photon Fusion |
-| Frontend Development | <img align="center" src="https://cdn.simpleicons.org/react/61DAFB" width="18"/> React / React Native, <img align="center" src="https://cdn.simpleicons.org/nextdotjs/white" width="18"/> Next.js, <img align="center" src="https://cdn.simpleicons.org/typescript/3178C6" width="18"/> TypeScript |
-| Backend & APIs | <img align="center" src="https://cdn.simpleicons.org/nodedotjs/339933" width="18"/> Node.js (Express), <img align="center" src="https://cdn.simpleicons.org/flask/white" width="18"/> Flask |
-| AI & Machine Learning | <img align="center" src="https://cdn.simpleicons.org/python/3776AB" width="18"/> Python, <img align="center" src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="18"/> TensorFlow, <img align="center" src="https://cdn.simpleicons.org/keras/D00000" width="18"/> Keras, NLP, Transformers |
-| Databases & Storage | <img align="center" src="https://cdn.simpleicons.org/mongodb/47A248" width="18"/> MongoDB, <img align="center" src="https://cdn.simpleicons.org/firebase/FFCA28" width="18"/> Firebase |
-| Tools & Version Control | <img align="center" src="https://cdn.simpleicons.org/git/F05032" width="18"/> Git, <img align="center" src="https://cdn.simpleicons.org/github/white" width="18"/> GitHub, Unity Version Control |
-| Testing & Quality | Unit Testing, Integration Testing |
-| Testing & Optimization | Debugging, Performance Optimization |
+| Area of Competence        | Key Technologies and Platforms |
+|---------------------------|--------------------------------|
+| Game Development          | Unity (2D/3D), C#, Photon Fusion |
+| Frontend Development      | React / React Native, Next.js, TypeScript |
+| Backend & APIs            | Node.js (Express), Flask |
+| AI & Machine Learning     | Python, TensorFlow, Keras, NLP, Transformers |
+| Databases & Storage       | MongoDB, Firebase, MySql |
+| Tools & Version Control   | Git, GitHub, Unity Version Control |
+| Testing & Quality         | Unit Testing, Integration Testing |
+| Testing & Optimization    | Debugging, Performance Optimization |
 
 ---
 ## Featured Projects  
