@@ -19,13 +19,14 @@ I am a dedicated Software Engineer with hands-on experience in Unity game develo
   <img src="https://cdn.simpleicons.org/react" width="35" height="35" alt="react" />&nbsp;
   <img src="https://cdn.simpleicons.org/tailwindcss" width="35" height="35" alt="tailwindcss" />&nbsp;
   <img src="https://cdn.simpleicons.org/javascript" width="35" height="35" alt="javascript" />&nbsp;
- <img src="https://cdn.simpleicons.org/nextdotjs/white" width="35" height="35" alt="nextdotjs" />&nbsp;
+  <img src="https://cdn.simpleicons.org/nextdotjs/white" width="35" height="35" alt="nextdotjs" />&nbsp;
   <img src="https://cdn.simpleicons.org/nodedotjs" width="35" height="35" alt="nodedotjs" />&nbsp;
   <img src="https://cdn.simpleicons.org/mongodb" width="35" height="35" alt="mongodb" />&nbsp;
   <img src="https://cdn.simpleicons.org/firebase" width="35" height="35" alt="firebase" />&nbsp;
   <img src="https://cdn.simpleicons.org/mysql" width="35" height="35" alt="mongodb" />&nbsp;
   <img src="https://cdn.simpleicons.org/git" width="35" height="35" alt="git" />&nbsp;
   <img src="https://cdn.simpleicons.org/flask" width="35" height="35" alt="flask" />&nbsp;
+  <img src="https://cdn.simpleicons.org/figma" width="35" height="35" alt="figma" />&nbsp;
 </p>
 
 ---
