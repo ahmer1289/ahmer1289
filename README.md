@@ -39,7 +39,7 @@ A comprehensive web application integrating multiple machine learning models for
 
 ### 2. Ocean Blue Laundry Management System  
 A full-stack web platform developed to automate laundry service operations, including order management, tracking, and customer interaction. The system improves operational efficiency and user experience through a modern web interface.  
-**Tech Stack:** Next.js, MongoDB  
+**Tech Stack:** Next.js, Swiperjs, Clerk, MongoDB  
 **Live Demo:** https://oceanblue-three.vercel.app  
 
 ---
