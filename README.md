@@ -37,7 +37,7 @@ I am a dedicated Software Engineer with hands-on experience in Unity game develo
 |---------------------------|--------------------------------|
 | Game Development          | Unity (2D/3D), C#, Photon Fusion |
 | Frontend Development      | React / React Native, Next.js, TypeScript, Tailwindcss |
-| Backend & APIs            | Node.js (Express), Flask |
+| Backend & APIs            | Node.js (Express), Flask, FastApi |
 | AI & Machine Learning     | Python, TensorFlow, Keras, NLP, Transformers |
 | Databases & Storage       | MongoDB, Firebase, MySql |
 | Tools & Version Control   | Git, GitHub, Unity Version Control |
